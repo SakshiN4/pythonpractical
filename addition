@@ -1,0 +1,5 @@
+A=8
+B=4
+C=A+B
+print('addition='C)
+addition=12
